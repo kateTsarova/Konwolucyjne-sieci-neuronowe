@@ -1,4 +1,4 @@
-# Konwolucyjne-sieci-neuronowe
+# Konwolucyjne Sieci Neuronowe
 
 Celem projektu jest stworzenie konwolucyjnej sieci neuronowej, umożliwiającej klasyfikację sześciu typów ręcznie rysowanych obiektów, i wykorzystanie jej w aplikacji do rozpoznawania rysunków namalowanych przez użytkownika.
 
