@@ -13,3 +13,9 @@ Do wytrenowania sieci neuronowej była wykorzystana baza danych «Qiuck, Draw!»
 Opis projektu i wyniki nauczania sieci są opisane w pliku _raport.pdf_.
 
 Do testowania sieci była napisana aplikacja "Quick, Predict!", którą można pobrać i zainstalować poprzez _QPsetup.exe_.
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/1.png
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/2.png
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/3.png
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/4.png
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/5.png
+https://github.com/kateTsarova/Konwolucyjne-sieci-neuronowe/raw/master/screenshots/6.png
