@@ -14,6 +14,8 @@ Opis projektu i wyniki nauczania sieci są zamieszczone w pliku _raport.pdf_.
 
 Do testowania sieci była napisana aplikacja "Quick, Predict!", którą można pobrać i zainstalować poprzez _QPsetup.exe_.
 
+![](screenshots/app.GIF)
+
 ![](screenshots/1.png)
 
 ![](screenshots/2.png)
