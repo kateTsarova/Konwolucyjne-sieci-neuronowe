@@ -12,7 +12,9 @@ Do wytrenowania sieci neuronowej była wykorzystana baza danych «Qiuck, Draw!»
 
 Opis projektu i wyniki nauczania sieci są zamieszczone w pliku _raport.pdf_.
 
-Do testowania sieci była napisana aplikacja "Quick, Predict!", którą można pobrać i zainstalować poprzez _QPsetup.exe_.
+Do testowania sieci była napisana aplikacja "Quick, Predict!", którą można zainstalować poprzez _QPsetup.exe_.
+
+Działanie aplikacji "Quick, Predict":
 
 ![](screenshots/app.GIF)
 
